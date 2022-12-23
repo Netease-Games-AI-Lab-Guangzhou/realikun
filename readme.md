@@ -1,4 +1,4 @@
-# [NeurIPS 2022] 1st Place Solution for the Neural MMO Challenge
+# [NeurIPS 2022] 1st Place Solution for the 3rd Neural MMO Challenge
 
 This is the code of *realikun*'s submission for the Final PvP track. 
 
